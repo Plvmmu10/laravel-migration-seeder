@@ -57,5 +57,16 @@ return
             "coach_number" => 10,
             "in_time" => true,
             "deleted" => false
+        ],
+        [
+            "agency" => "Italo",
+            "departure_station" => "Bologna",
+            "arrival_station" => "Milano",
+            "departure_time" => "14:00",
+            "arrival_time" => "16:00",
+            "train_code" => "PJK278",
+            "coach_number" => 14,
+            "in_time" => false,
+            "deleted" => true
         ]
     ];
